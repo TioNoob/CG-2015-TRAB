@@ -37,7 +37,7 @@ namespace CosmicSimulator
 
                     game.VSync = VSyncMode.On;
                     game.Title = "Cosmic Simulator";
-                    //game.WindowState = WindowState.Fullscreen;
+                    game.WindowState = WindowState.Fullscreen;
                 };
         }
 
